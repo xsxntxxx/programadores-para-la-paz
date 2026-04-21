@@ -1,0 +1,13 @@
+Pregunta 4:¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y
+la organización del trabajo técnico con herramientas como Git?
+
+Respuesta: La relación que encuentro es que todo va de la mano y se conecta entre si, por un lado senos habla de el uso
+responsable de internet, la particpación adecuada y activa dentro de las redes sociales y los entornos digitales
+contribuyendo a tener una buena relación y control de nuestras interacciones en internet para no ofender o hacer menos a
+los demás, esto siendo lo mas adecuado y óptimo eticamente y como todos nos deberiamos de comportar, y por otro lado
+tenemos las herramientas como Git,Github, Cursor o Visual Studio Code en los cuales tenemos otro lenguaje y en el cual
+debemos usar los códigos adecuados para que nos funcionen todas las cosas, si nos equivocamos en una letra o un punto
+simplemente el codigo no se ejecutara y nos presenatara error, de esta manera tambien deberia funcionar los entornos
+digitales y en el momento que una persona no se este expresando de una manera adecuada simplemente sele podria mostrar
+una alerta en su pantalla para que corrija su acción antes de publicarla, de esta manera cumpliendo las "normas" y
+comportandose de una forma eticamnete correcta.
