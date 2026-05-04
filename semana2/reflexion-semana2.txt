@@ -1,0 +1,11 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Para un desarrollador es importante tener el manejo de la terminal porque le facilita realizar su labor, le ayuda a saber en cual
+carpeta o archivo se encuentra ubicado dentro de su dispositivo, dominar esta habilidad y manejarla con facilidad es bastente necesario
+y fundamental para desempeñar esta labor pues para un desarrollador es mucho mas facil moverse dentro de un proyecto por medio de una
+terminal, dominar todos los comandos de una terminal les hara destacar en estos proyectos y ser mucho mas eficientes en sus labores 
+asi como tener un mejor manejo y conocimiento de su propio dispositivo y herramientas de trabajo para contribuir a la eficiencia 
+en su trabajo como desarrollador, esto para un futuro desarrollador es muy importante, porque nos hara destacar en el mercado laboral
+por nuestras habilidades y modo de eficiencia dentro de los proyectos que este desarrollando la entidad en la cual trabaje un 
+desarrollador, es muy necesario y muy basico tener el dominio necesario en este aspecto. 
+
