@@ -1,0 +1,14 @@
+Explicación de conceptos de git.
+
+Repositorio: Un repositorio es el lugar en la nube donde se almacenan los proyectos, trabajos y codigos
+fuente de programación de manera ordenada, nos ayudan a documentar y guardar el registro de lo que hacemos
+en los proyectos de programación.
+
+Commit: Es un comando muy utilizado en git el cual nos realiza una "foto" de los cambios que hemos
+realizado en un proyecto de programacion, esta accion nos deja guardado hasta este punto y de forma
+permanente los cambios que le hemos realizado a nuestro proyecto, es muy bueno cuando se trabaja en
+equipo o para una corporación.
+
+Push: Es comando de git el cual nos sirve para subir los cambios realizados a un proyecto desde 
+nuestro repositorio local a un repositorio remoto, actualizando la rama remota y agregando nuestros 
+cambios hechos recientemente.  
