@@ -1,0 +1,9 @@
+http://localhost:3000
+Al ingresar a esta ruta nos sale el mensaje de "Servidor activo"
+
+http://localhost:3000/saludo
+Al ingresar a esta ruta nos sale el mensaje "Hola comunidad"
+
+http://localhost:3000/mensaje/juan
+Al ingresar a esta ruta nos sale el mansaje de "Hola Juan"
+

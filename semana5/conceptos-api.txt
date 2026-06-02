@@ -1,0 +1,4 @@
+Esta ruta de tipo POST primeramente escucha las solucitudes enviadas, extrae la informacion, almacena este contendido temporalmente para luego el
+servidor darnos una respuesta en formato JSON.
+
+En una comunidadad podria servir para reportar incidentes con los servicios, para informar sugerencias, alertas o inconvenientes dentro de la comunidad.
