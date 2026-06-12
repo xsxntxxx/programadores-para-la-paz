@@ -1,0 +1,22 @@
+Cuando consulte el reporte con el método POST me da la respuesta:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+
+
+Cuando consulte el reporte mediante GET  me da la respuesta:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+
