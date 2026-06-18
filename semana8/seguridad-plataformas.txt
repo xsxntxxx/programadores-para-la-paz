@@ -1,7 +1,0 @@
-Prácticas de seguridad.
-
-1.Saber muy bien que tipo de información estamos compartiendo
-2.Saber bien con quien estamos compartiendo nuestra información 
-3.Usar conexiones seguras y confiables
-4.Registrar los accesos constantemente 
-5.Limitar el acceso a información sensible.
