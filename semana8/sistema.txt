@@ -13,3 +13,4 @@ Por qué es útil conocer información del sistema cuando se administra un servi
 
 Respuesta:Nos sirve para conocer a fondo la información del sistema y 
 de nuestra herramienta de trabajo, y saber como esta trabajando el dispositivos
+
