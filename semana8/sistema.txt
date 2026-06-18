@@ -1,0 +1,15 @@
+Qué información muestra cada comando.
+
+Comando:
+uname -a
+Respuesta de la terminal:
+MINGW64_NT-10.0-26200 DESKTOP-KBQTKBI 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+Comando:
+whoami
+Respuesta de la terminal:
+Santiago
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+
+Respuesta:Nos sirve para conocer a fondo la información del sistema y 
+de nuestra herramienta de trabajo, y saber como esta trabajando el dispositivos

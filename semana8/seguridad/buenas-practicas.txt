@@ -1,0 +1,6 @@
+Buenas prácticas de seguridad digital
+
+1.Crear contraseñas seguras para proteger nuestros datos
+2.Mantener en privado nuestras contraseñas y no compartirlas con nadie 
+3.Actualizar constantemente nuestros dispositivos a las ultimas versines, 
+esto hace que no sean tan vulnerables.
