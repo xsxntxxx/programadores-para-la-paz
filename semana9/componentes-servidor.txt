@@ -1,0 +1,31 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+Sistema operativo
+
+Se trata del software que administra los recursos del hardware como la memoria y el procesador 
+y permite la comunicación con el usuario. Es  el intermediario que controla y/o otorga permisos 
+para que corrar todos los programas del dispositivo.
+
+Node.js
+
+Es un entorno de ejecución de JavaScript que nos permite ejecutar este lenguaje de programación 
+fuera de los navegadores web a la computadora o el servidor, este nos proporciona todas las 
+herramientas necesarias para construir aplicaciones y servidores.
+
+Aplicación server.js
+
+Es el archivo principal del codigo deonde cofiguramos y programamos la lógica del servidor 
+web, como en este caso usando Express.Se encarga de definir las rutas de la aplicación, 
+procesar las peticiones de los usuarios y conectar con las bases de datos.
+
+Puerto
+
+Es el canal virtual que se asigna a un servicio especifico para recibir datos en la red,
+permite que multiples aplicaciones usen la misma dirección IP sin que se mezclen sus datos
+o conexiones.
+
+Logs
+
+Se trata de archivos de texto que registran de forma automatica y cronologica las actividades,
+eventos y errores que ocurren en el servidor, son la principal herramienta de un desarrollador 
+para auditar la seguridad y diagnosticar fallos en la aplicación.

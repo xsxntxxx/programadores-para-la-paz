@@ -1,0 +1,16 @@
+Escribe un texto de 8 a 10 líneas respondiendo:
+
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades 
+funcionen de manera estable y segura en un servidor?
+
+La estabilidad y la seguridad de un servidor son los cimientos que sostienen la 
+continuidad y la legitimidad de cualquier plataforma comunitaria. Cuando un servidor 
+es inestable y experimenta caídas constantes, se interrumpe la participación activa, 
+lo que genera frustración y un abandono progresivo del espacio por parte de los usuarios. 
+Por otro lado, la falta de seguridad expone los datos personales, los debates internos y 
+los mecanismos de votación a manipulaciones o ciberataques externos. Proteger y optimizar 
+esta infraestructura técnica no solo previene fallos operativos y pérdidas de información 
+crítica, sino que también construye un entorno confiable donde la comunidad puede interactuar 
+sin temor a la censura o al robo de identidad. En última instancia, mantener un servidor 
+robusto es lo que garantiza que los procesos participativos sean sostenibles, equitativos, 
+transparentes y verdaderamente democráticos en el tiempo.
