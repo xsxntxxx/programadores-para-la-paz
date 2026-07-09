@@ -1,0 +1,23 @@
+¿Qué 2 tareas del backlog harías primero?
+Primero haria:
+1.Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2.Como miembro del equipo quiero consultar reportes para hacer seguimiento. 
+
+¿Por qué son las más importantes?
+Porque permiten al usuario registrar la incidencia y tambien verificar los 
+reportes y el seguimiento.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Significa que se cumplio con la labor o actividad requerida previamente
+
+Escribe una definición simple de terminado con al menos 3 criterios. 
+Por ejemplo:
+Funciona.
+Fue probada.
+Quedó registrada en Git.
+
+Respuestas:
+Funciona segun lo solicitado.
+Fue aprobada localmente.
+Quedo registrada en Git.

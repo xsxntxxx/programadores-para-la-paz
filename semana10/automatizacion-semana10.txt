@@ -1,0 +1,14 @@
+Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+R:El envio de la incicencia realizada por un usuario.
+¿Qué mensaje se enviaría a Telegram?
+R:
+- se recepciono la información 
+- se esta procesando
+- el proceso ha sido finalizado
+¿Qué información no debería enviarse por seguridad?
+R:
+-datos personales 
+-contraseñas
+-tokens
