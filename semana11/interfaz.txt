@@ -1,0 +1,9 @@
+La interfaz de la plataforma contaría con una sección principal destinada a la
+creación de nuevas causas comunitarias, incluyendo un formulario con campos 
+para el título, descripción y fecha límite de la iniciativa. Asimismo, 
+dispondría de una vista centralizada de causas disponibles que actúe 
+como un catálogo público y legible para la comunidad. Cada una de estas 
+causas presentaría de forma clara un botón interactivo de apoyo y un 
+contador dinámico que refleje la cantidad de personas que han respaldado la 
+propuesta. Todo el diseño se estructurará de manera simple y clara, omitiendo 
+estrictamente cualquier información privada o sensible de los usuarios.

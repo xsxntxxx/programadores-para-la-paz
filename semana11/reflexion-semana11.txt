@@ -1,0 +1,10 @@
+Una plataforma tecnológica orientada a la participación ciudadana requiere obligatoriamente
+de una base de datos para almacenar de forma organizada, persistente y estructurada todas
+las causas comunitarias, propuestas y registros de interacciones esenciales del sistema.
+Por otro lado, la implementación de un mecanismo de autenticación de usuarios es crucial
+para validar con total certeza la identidad de quienes participan, previniendo el fraude,
+la duplicidad de votos y la manipulación maliciosa de los apoyos en las iniciativas.
+Finalmente, la protección estricta de la información y el resguardo de rutas privadas
+garantizan el derecho fundamental a la privacidad, blindando el sistema contra ataques.
+La unión de estos tres pilares tecnológicos es lo que verdaderamente dota de legitimidad,
+transparencia, robustez y confianza a cualquier ecosistema digital de desarrollo social.
