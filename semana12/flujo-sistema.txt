@@ -1,0 +1,7 @@
+Flujo del sistema: Petición en 3 Clics
+
+1. Registro y Autenticación: El ciudadano se registra o autentica en la plataforma de manera segura para garantizar la validez de su participación.
+2. Creación de la Causa: El ciudadano describe su necesidad o problemática, completando un formulario sencillo que define el objeto de la petición.
+3. Difusión y Apoyo Comunitario: La causa se publica en la plataforma, permitiendo que otros ciudadanos la visualicen, se informen y registren su apoyo digitalmente.
+4. Automatización y Notificación: El sistema (a través de herramientas como n8n) detecta cuando se alcanza una meta de apoyos o se requiere una acción, enviando notificaciones automáticas vía Telegram a los interesados y administradores.
+5. Generación Documental: Una vez completados los requisitos, el sistema genera automáticamente un documento formal (PDF) estructurado con toda la información técnica y los datos de respaldo, listo para ser radicado ante la entidad correspondiente.

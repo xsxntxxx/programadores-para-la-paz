@@ -1,0 +1,23 @@
+Modelo de Datos: Plataforma "Petición en 3 Clics"
+
+1. ENTIDAD: Causa
+
+Atributos:
+  * id (Llave Primaria): Identificador único de cada causa en la base de datos (ej. tipo entero o UUID).
+  * titulo (Texto): Nombre descriptivo de la petición o reclamo ciudadano.
+  * descripcion (Texto largo): Detalle exhaustivo de la necesidad, problemática o derecho que se exige.
+  * fecha (Fecha/Hora): Momento exacto en el que el ciudadano creador registró la causa en el sistema.
+
+Propósito:
+Esta entidad representa la iniciativa o petición que un ciudadano abre de forma pública. Sirve para almacenar el núcleo de la solicitud (qué se está exigiendo y por qué), actuando como la entidad padre a la cual se asociarán posteriormente los respaldos de otros miembros de la comunidad.
+
+2. ENTIDAD: Apoyo
+
+Atributos:
+  * id (Llave Primaria): Identificador único de cada registro de apoyo.
+  * causa_id (Llave Foránea): Relación directa con la Causa que se está respaldando. Permite saber a cuál causa pertenece este voto de apoyo.
+  * nombre (Texto): Nombre y apellido del ciudadano que decide respaldar digitalmente la causa.
+  * fecha (Fecha/Hora): Momento exacto en el que el usuario registró su apoyo a la causa.
+
+Propósito:
+Esta entidad sirve para registrar cada firma o respaldo digital individual que recibe una causa específica. Permite realizar el conteo del apoyo social recibido (agregación de datos), estructurando la relación de "uno a muchos" (una causa puede recibir múltiples apoyos) indispensable para legitimar colectivamente la petición antes de su radicación.

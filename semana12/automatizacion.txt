@@ -1,0 +1,3 @@
+Evento: nueva causa registrada en nuestros servidores 
+Mensaje: “Nueva causa creada en la plataforma”
+Información  sensible y que no debe enviarse: cédulas, teléfonos, direcciones, comentarios sensibles o datos personales.
